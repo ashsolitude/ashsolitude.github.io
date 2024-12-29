@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>新的开始</title>
+    <link href="/2022/05/04/begin/"/>
+    <url>/2022/05/04/begin/</url>
+    
+    <content type="html"><![CDATA[<p>On May 4, 2022, I set up my personal blog.</p><span id="more"></span><p>Although there are still some details left to be done, such as the use of archiving, categorization and tags, overall it is basically done.</p><p>In fact, the idea of blogging has been around for a long time, but it has never been realized, because I take blogging too seriously, and I hope I can output some valuable and in-depth articles, even if I am learning new knowledge. During the process or the review of what I have done before, I hope that I can write carefully and write it well. However, in the end, it was because of my perfectionism that could not achieve the desired effect.</p><p>With the later stepping and growth, I gradually realized that this is not good, and the world is not black and white. Now that I think about my blog, on the one hand, I record my own learning and growth process and force my output. On the other hand, I look back at myself in the future and find that this period of time has not been wasted, even if I have taken a lot of detours, I can also realize that I worked hard at that time, and that’s fine.</p><p>Hmm… Sometimes I feel like I’ve wasted a lot of time. Fortunately, I’ve saved some of my own writing before, so I don’t think I’m starting from scratch. Dongyu is gone, Sangyu is not too late. I hope that I can often write blogs in the future to record the solutions of some algorithm problems, my learning experience, and memorable things in my life. The following uses a classic program to symbolize the new beginning of the <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>c</mi><mi>o</mi><mi>d</mi><mi>e</mi></mrow><annotation encoding="application/x-tex">code</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">co</span><span class="mord mathnormal">d</span><span class="mord mathnormal">e</span></span></span></span> career</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs c++"><span class="hljs-meta">#<span class="hljs-keyword">include</span><span class="hljs-string">&lt;bits/stdc++.h&gt;</span></span><br><span class="hljs-keyword">using</span> <span class="hljs-keyword">namespace</span> std;<br><span class="hljs-function"><span class="hljs-type">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;<br>    cout&lt;&lt;<span class="hljs-string">&quot;Hello World&quot;</span>&lt;&lt;endl;<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
